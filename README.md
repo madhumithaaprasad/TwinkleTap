@@ -14,8 +14,10 @@ This is a responsive landing page with an interactive navigation menu. The menu 
 - **CSS**: For styling and making the design responsive.
 - **JavaScript**: For interactive features.
 
-## ![Screenshot 2024-12-30 234808](https://github.com/user-attachments/assets/ae9eb66b-963f-4135-b6f1-5ea1dfcaee46)
-![Screenshot 2024-12-30 234444](https://github.com/user-attachments/assets/d5365bb1-4a2e-4769-b87b-8d0506a2f244)
+## ![image](https://github.com/user-attachments/assets/f08f03c2-e9be-4a2f-9f9c-2a6a00328325)
+![image](https://github.com/user-attachments/assets/76af6523-05c7-4036-8779-ee9f312db4e6)
+
+
 **How to View**
 1. Download or clone this repository:
    ```bash
