@@ -21,7 +21,7 @@ This is a responsive landing page with an interactive navigation menu. The menu 
 **How to View**
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/responsive-landing-page.git
+   git clone https://github.com/madhumithaaprasad/SCT_WD_1.git
    ```
 2. Open the `index.html` file in any browser to view the page.
 
