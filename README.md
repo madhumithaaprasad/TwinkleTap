@@ -1,7 +1,7 @@
-# **Responsive Landing Page**
+# **TwinkleTap**
 
 ## **About the Project**
-This is a responsive landing page with an interactive navigation menu. The menu changes style while scrolling or hovering over it; this adds a fun, dynamic touch to the design. The page is very simple, clean, and designed with soft pastel colors to give it a friendly and personal vibe.
+TwinkleTap is a responsive landing page with an interactive navigation menu. The menu changes style while scrolling or hovering over it; this adds a fun, dynamic touch to the design. The page is very simple, clean, and designed with soft pastel colors to give it a friendly and personal vibe.
  
 ## **Features**
  A navigation bar that reacts to scrolling and hovering.
